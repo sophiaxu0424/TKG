@@ -75,19 +75,19 @@ my %base = (
 		sha1 => 'a0f58cad836a410f6ba133aaa209aea7e54aaf8a'
 	},
 	byte_buddy => {
-		url => 'https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.14.12/byte-buddy-1.14.12.jar',
+		url => 'https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy/1.14.15/byte-buddy-1.14.15.jar',
 		fname => 'byte-buddy.jar',
-		sha1 => '6e37f743dc15a8d7a4feb3eb0025cbc612d5b9e1'
+		sha1 => '11c9440bc7f9468761e5a82778a05205169d49a9'
 	},
 	byte_buddy_agent => {
-		url => 'https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.14.12/byte-buddy-agent-1.14.12.jar',
+		url => 'https://repo1.maven.org/maven2/net/bytebuddy/byte-buddy-agent/1.14.15/byte-buddy-agent-1.14.15.jar',
 		fname => 'byte-buddy-agent.jar',
-		sha1 => 'be4984cb6fd1ef1d11f218a648889dfda44b8a15'
+		sha1 => '0b4cc9d88d5de562bf75b3a54ab436ad01b3f72d'
 	 },
 	objenesis => {
-		url => 'https://repo1.maven.org/maven2/org/objenesis/objenesis/3.3/objenesis-3.3.jar',
+		url => 'https://repo1.maven.org/maven2/org/objenesis/objenesis/3.4/objenesis-3.4.jar',
 		fname => 'objenesis.jar',
-		sha1 => '1049c09f1de4331e8193e579448d0916d75b7631'
+		sha1 => '675cbe121a68019235d27f6c34b4f0ac30e07418'
 	 },
 	commons_cli => {
 		url => 'https://repo1.maven.org/maven2/commons-cli/commons-cli/1.2/commons-cli-1.2.jar',
